@@ -1,0 +1,1 @@
+# Jamstack Training Blog
