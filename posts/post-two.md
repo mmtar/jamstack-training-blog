@@ -1,8 +1,8 @@
 ---
 title: Modern CSS
-description: I don't intend to waste any of mine.
 date: 2021-04-21
 author: Stephanie Eckles
+description: New modern solutions to old CSS Problems
 layout: layouts/post.njk
 ---
 * centering
