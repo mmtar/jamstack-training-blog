@@ -1,17 +1,17 @@
 ---
-title: "I believe every human has a finite number of heartbeats. "
-description: "I don't intend to waste any of mine."
-author: "Stephanie Eckles"
-date: "2021-04-21"
-layout: 'layouts/post.njk'
+title: Modern CSS
+description: I don't intend to waste any of mine.
+date: 2021-04-21
+author: Stephanie Eckles
+layout: layouts/post.njk
 ---
-Adding Events
+* centering
 
-React events are written in camelCase syntax:
+* footer bottom
 
-onClick instead of onclick.
+* 3 heroes
 
-React event handlers are written inside curly braces:
+
 
 ```javascript
 onClick={shoot}  instead of onClick="shoot()".                   
