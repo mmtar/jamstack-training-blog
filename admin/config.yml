@@ -6,7 +6,7 @@ collections:
     folder: 'posts'
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
-      - {label: 'Date', name: 'date', widget: 'datatime'}
+      - {label: 'Date', name: 'date', widget: 'datetime'}
       - {label: 'Author', name: 'author', widget: 'string'}
       - {label: 'Body', name: 'body', widget: 'markdown'}
 media_folder: "samples"
